@@ -1,0 +1,14 @@
+p{
+    color: rgb(123, 0, 255);
+}
+p{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 2px;
+    padding: 10px;
+    border-top-color: deeppink;
+    border-bottom-color: gold;
+}
+body{
+    background: linear-gradient(pink, lightblue);
+}
